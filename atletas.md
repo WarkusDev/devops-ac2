@@ -2,6 +2,6 @@
 
 Ronda Rousey
 Bob Sapp
-Mirko Crocop
+Mirko Crocopp
 Kyrie Irvin
 anderson silva
