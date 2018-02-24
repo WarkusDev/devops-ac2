@@ -1,7 +1,7 @@
 # Melhores atletas
 
 Markus
-Thiago
+Thiago Bob Sapp
 Felipe
 Igor
 Vinícius
