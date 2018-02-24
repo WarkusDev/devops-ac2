@@ -1,5 +1,3 @@
 # Melhores atletas
 
-Mirko Crocop
-Kyrie Irvin
-
+Mirko Crocopp
