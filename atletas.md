@@ -1,13 +1,7 @@
 # Melhores atletas
 
-<nome>
-
-
-<nome>
-
-<nome>
-
-<nome>  
-
-<anderson silva>
-  
+Ronda Rousey
+Bob Sapp
+Mirko Crocop
+Kyrie Irvin
+anderson silva
