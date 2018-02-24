@@ -1,7 +1,5 @@
 # Melhores atletas
 
-Markus
-Thiago Bob Sapp
-Felipe
-Igor
-Vinícius
+Bob Sapp
+Mirko Crocop
+Kyrie Irvin
