@@ -1,13 +1,3 @@
 # Melhores atletas
 
-<nome>
-
-
-<nome>
-
-<nome>
-
-<nome>  
-
-<nome>
-  
+Ronda Rousey
